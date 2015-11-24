@@ -1,2 +1,2 @@
 # bcesisnt
-A high school attempt to make something similar to BCESiS.
+A high school attempt to make something similar to BCeSIS.
